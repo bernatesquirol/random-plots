@@ -1,0 +1,1 @@
+- `python -m pip install https://software-download.bantamtools.com/nd/api/nextdraw_api.zip --upgrade --upgrade-strategy eager`
